@@ -161,4 +161,3 @@ def file_from_folder(user,repo,branch,folder):
             file_from_folder(user,repo,branch,paths['path'])
 
 get_file_list()
-
