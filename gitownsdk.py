@@ -161,12 +161,3 @@ def file_from_folder(user,repo,branch,folder):
             file_from_folder(user,repo,branch,paths['path'])
 
 get_file_list()
-
-
-#next commit
-#Donno wat happs
-
-# pull()
-#Positivity
-#Inserted line by first push
-#Inserted line by second  push
